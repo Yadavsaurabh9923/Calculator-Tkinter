@@ -30,10 +30,13 @@ A] Available Conversions
    B] Additional Features
       - History is saved with date and time stamp in text file.
       - Userfriendly UI
+      
    C] Rpogrammer's Calculator
       - Conversion between all types of numbers(Binary,Octal,Decimal,Hexadecimal)
+      
    D] Body Mass index Calculator
       - Supported Units
         -For Height(Centimeters,meters,feet,inches)
         -For Weight(Kilograms,Pounds)
+        
    E] Date Calculator for calculating difference between dates.
